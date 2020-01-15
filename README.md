@@ -1,12 +1,12 @@
 # lab02-jsun454
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-jsun454/
+
 Repo: https://github.com/ucsb-cs56-w20/lab02-jsun454
 
 # About this repo
 
 This is a minimal "Hello World" type webapp built with Spring Boot.
-
 
 # Sources
 
@@ -24,4 +24,3 @@ modified for use in UCSB CMPSC 56.
 | `mvn test` | Runs one sucessful test |
 | `mvn package` | Builds the jar file `target/gs-spring-boot-0.1.0.jar` |
 | `java -jar target/gs-spring-boot-0.1.0.jar` | If done after `mvn package`, runs the code to startup a web server.  Access it via `http://localhost:8080` on the *same machine* where the server is running.  Use CTRL/C to stop it. |
-
